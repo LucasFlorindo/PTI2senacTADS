@@ -15,6 +15,10 @@ namespace LojaInstrumentos
         {
             throw new NotImplementedException();
         }
+        private static void ListarProdutos()
+        {
+            throw new NotImplementedException();
+        }
 
         static void Main(string[] args)
         {
@@ -58,21 +62,37 @@ namespace LojaInstrumentos
                 Console.WriteLine("Informe a marca do instrumento:");
                 string marca = Console.ReadLine();
 
-                
-                int quantidade = 1;
+
+                int quantidade = 0;
 
 
                 Produto produto = new Produto(nome, preco, quantidade, cor, condicaoNovo, marca);
                 AdicionarProduto(produto);
                 Console.WriteLine("Novo instrumento adicionado no estoque!");
 
-            } else if (item == "2")
+            }
+            else if (item == "2")
+            {
+                ListarProdutos();
+            }
+            else if (item == "3")
+            {
+                Console.WriteLine("Informe a posição do instrumento a ser removido");
+
+
+            }
+            else if(item == "4")
+            {
+
+            }
+            else if(item == "5")
             {
 
             }
 
+
         }
 
-       
+
     }
 }
