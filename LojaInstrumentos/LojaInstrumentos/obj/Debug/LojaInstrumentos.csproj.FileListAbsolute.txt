@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\bin\Debug\LojaInstrumentos.exe.config
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\bin\Debug\LojaInstrumentos.exe
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\bin\Debug\LojaInstrumentos.pdb
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\obj\Debug\LojaInstrumentos.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\obj\Debug\LojaInstrumentos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\obj\Debug\LojaInstrumentos.exe
+C:\Users\Lucas Rodrigues\temp\PTI alg2\LojaInstrumentos\LojaInstrumentos\obj\Debug\LojaInstrumentos.pdb
